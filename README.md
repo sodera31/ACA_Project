@@ -1,6 +1,7 @@
 # Sample Data Analysis Report
 ---
 [Introduction](#introduction)
+[Dataset Overview](#dataset-overview)
 
 ### Introduction
 ---
