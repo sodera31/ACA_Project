@@ -4,6 +4,8 @@
 
 [Dataset Overview](#dataset-overview)
 
+[Key Findings](#key-findings)
+
 ### Introduction
 ---
 This report analyzes customer sales data from January to June 2025 for an online retail company. 
