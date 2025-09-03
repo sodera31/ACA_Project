@@ -1,5 +1,7 @@
 # Sample Data Analysis Report
 ---
+[Introduction](#introduction)
+
 ### Introduction
 ---
 This report analyzes customer sales data from January to June 2025 for an online retail company. 
